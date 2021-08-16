@@ -1,1 +1,22 @@
- 
+{
+    "broadArea": {
+        "name": "Computer Science and Engineering",
+        "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    },
+    "lab": "VLSI",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "IIITH",
+    "baseUrl": "cse14-iiith.vlabs.ac.in",
+    "introduction": "",
+    "experiments": [],
+    "targetAudience": {
+        "UG": [],
+        "PG": []
+    },
+    "objective": "",
+    "courseAlignment": {
+        "description": "",
+        "universities": []
+    }
+}
