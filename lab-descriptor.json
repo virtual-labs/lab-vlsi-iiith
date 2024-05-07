@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Computer Science and Engineering",
-    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+    "code": "CSE"
   },
   "lab": "VLSI",
   "deployLab": true,
@@ -86,8 +87,5 @@
     "universities": [
       "The present lab is aligned with VLSI course structure. The experiments touch on most topics covered in such courses in most curricula."
     ]
-  },
-  "exp_name": "Design Of Digital Circuits Using Verilog",
-  "exp_short_name": "circuits-verilog",
-  "version": "v0.5.0"
+  }
 }
