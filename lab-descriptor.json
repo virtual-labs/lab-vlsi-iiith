@@ -5,7 +5,7 @@
     "code": "CSE"
   },
   "lab": "VLSI",
-  "lab_display_name": "VLSI"
+  "lab_display_name": "VLSI",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
