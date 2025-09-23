@@ -73,7 +73,13 @@
       "repo": "https://github.com/virtual-labs/exp-digital-circuits-verilog-iiith",
       "tag": "v1.0.2",
       "deploy": true
-    }
+    },
+     {
+      "name": "Layout Design",
+      "short-name": "layout-design",
+      "repo": "https://github.com/virtual-labs/exp-layout-design-iiith ",
+      "tag": "v1.0.2",
+      "deploy": true
   ],
   "targetAudience": {
     "UG": ["B. Tech./ B.E in ECE"],
