@@ -1,13 +1,12 @@
 {
   "broadArea": {
-    "name": "Computer Science and Engineering",
-    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
-    "code": "CSE"
+    "name": "Electronics and Communication Engineering",
+    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications",
+    "code": "ECE"
   },
   "lab": "VLSI",
   "lab_display_name": "VLSI",
-  "deployLab": true,
-  "phase": 2,
+  "phase": "3-ext",
   "collegeName": "IIITH",
   "baseUrl": "cse14-iiith.vlabs.ac.in",
   "introduction": "A single chip sized of few millimeters may have Millions of transistors in it for example a microprocessor is a VLSI device. Very Large Scale Integration (VLSI) is the process of creating integrated circuits by combining large numbers of transistors into a single chip.</br></br><img src='https://user-images.githubusercontent.com/11156924/128699693-f0b3c651-0a62-49b9-a0cd-0c2c0bb476ad.png' alt='VLSI'> </br>This lab provides good understanding and learning opportunity of VLSI designing for users. There are ten experiments in this lab, which covers following aspects of VLSI designing.</br>First six experiments provide GUI interface of schematic design and simulation results of various circuits.</br>Seventh experiment provides WEB based Spice code simulation platform. User can learn circuit design using Spice coding.</br>Eighth and ninth experiments provide digital circuit designing using Verilog code for which a web based Verilog simulation platform is provided. User can test any level of Verilog code in ninth experiment.</br>Tenth experiment provides GUI interface of physical (layout) design of various circuits. By this experiment user can learn design rules (DRCs) for layout design and can test design rules of their designs.</br></br> Please note:</br></br> This lab requires few Software Dependencies to run the Simulations</br>1.Adobe Flash Plugin, Java1.7, Java3D 1.5.2 (The Java 3D API enables the creation of three-dimensional graphics applications and Internet-based 3D applets)</br>2.Browsers Firefox 50 and its below versions, internet explorer.</br>IcedTea Plugin for Linux Operating System.</br></br>We recommend the following for the smooth running of these simulations</br>1.Install Adobe Flash Plugin - This will enable you to run the experiments that need Flash support. Please follow the <a href='https://docs.google.com/document/d/0B_3qEAmTcWVJTzk5R1J6QXhVNjQ/edit?resourcekey=0-perEjVF4ne7tSM6tBYhGew'>link</a> to install the Flash Plugin</br>2.Install VirtualBox - Virtual Labs offers a free download of a customized VirtualBox with the required pre-installed software dependencies(Java 1.7, Java3D-1.5.2, IcedTea Plugin, and Adobe Flash Plugin). Please follow the <a href='https://docs.google.com/document/d/1mX0YMtFk4Dxn_vQBJmUJ8pIOPE2hVf6AscJMdLWd9k8/edit'>link</a> to download, install and use VirtualBox for Virtual Labs. ",
@@ -16,63 +15,63 @@
       "name": "Schematic Design Of Transistor Level Inverter",
       "short-name": "transistor-level-inverter",
       "repo": "https://github.com/virtual-labs/exp-transistor-level-inverter-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Schematic Design Of Transistor Level NAND & NOR Gate",
       "short-name": "transistor-level-nand",
       "repo": "https://github.com/virtual-labs/exp-transistor-level-nand-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Schematic Design Of Transistor Level XOR & XNOR Gate",
       "short-name": "transistor-level-xor",
       "repo": "https://github.com/virtual-labs/exp-transistor-level-xor-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Schematic Design Of Pass Transistor Logic & Multiplexer",
       "short-name": "pass-transistor-logic",
       "repo": "https://github.com/virtual-labs/exp-pass-transistor-logic-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Delay Estimation In Chain Of Inverters",
       "short-name": "chain-of-inverters",
       "repo": "https://github.com/virtual-labs/exp-chain-of-inverters-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Schematic Design Of D-Latch and D-Flip Flop",
       "short-name": "d-latch-and-d-flip-flop",
       "repo": "https://github.com/virtual-labs/exp-d-latch-and-d-flip-flop-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Spice Code Platform",
       "short-name": "spice-code-platform",
       "repo": "https://github.com/virtual-labs/exp-spice-code-platform-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Design Of D-Flip Flop Using Verilog",
       "short-name": "d-flip-flop-verilog",
       "repo": "https://github.com/virtual-labs/exp-d-flip-flop-verilog-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Design Of Digital Circuits Using Verilog",
       "short-name": "circuits-verilog",
       "repo": "https://github.com/virtual-labs/exp-digital-circuits-verilog-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
