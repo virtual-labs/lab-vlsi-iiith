@@ -80,6 +80,7 @@
       "repo": "https://github.com/virtual-labs/exp-layout-design-iiith ",
       "tag": "v1.0.2",
       "deploy": true
+     }
   ],
   "targetAudience": {
     "UG": ["B. Tech./ B.E in ECE"],
