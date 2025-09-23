@@ -77,7 +77,7 @@
      {
       "name": "Layout Design",
       "short-name": "layout-design",
-      "repo": "https://github.com/virtual-labs/exp-layout-design-iiith ",
+      "repo": "https://github.com/virtual-labs/exp-layout-design-iiith",
       "tag": "v1.0.2",
       "deploy": true
      }
