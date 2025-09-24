@@ -87,7 +87,7 @@
       "UG 3rd Year (6th semester)"],
     "PG": ["MS/Ph. D. Beginners in Electronics and Communications and related topics"]
   },
-  "objective": "This lab provides good understanding and learning opportunity of VLSI designing for users.",
+  "objective": "The VLSI Lab offers an interactive platform for designing and simulating integrated circuits, guiding students through schematic design, circuit simulation, and hardware description languages. It empowers learners with hands-on experience in modern VLSI design methodologies.<ul><li>Mastering Schematic Design: Develop transistor-level circuits and analyze their behavior through interactive simulations.</li><li>Implementing HDL-Based Design: Create and test digital circuits using Verilog.</li><li>Validating Layout Designs: Apply design rules and perform layout verification for VLSI circuits.</li></ul>",
   "courseAlignment": {
     "description": "VLSI Design is a professional core course in Electronics and Communication Engineering (PCC-EC24 and PCC-EC25) recommended in the AICTE model curriculum.",
     "universities": [
