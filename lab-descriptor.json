@@ -15,70 +15,70 @@
       "name": "Schematic Design Of Transistor Level Inverter",
       "short-name": "transistor-level-inverter",
       "repo": "https://github.com/virtual-labs/exp-transistor-level-inverter-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Schematic Design Of Transistor Level NAND & NOR Gate",
       "short-name": "transistor-level-nand",
       "repo": "https://github.com/virtual-labs/exp-transistor-level-nand-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Schematic Design Of Transistor Level XOR & XNOR Gate",
       "short-name": "transistor-level-xor",
       "repo": "https://github.com/virtual-labs/exp-transistor-level-xor-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Schematic Design Of Pass Transistor Logic & Multiplexer",
       "short-name": "pass-transistor-logic",
       "repo": "https://github.com/virtual-labs/exp-pass-transistor-logic-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Delay Estimation In Chain Of Inverters",
       "short-name": "chain-of-inverters",
       "repo": "https://github.com/virtual-labs/exp-chain-of-inverters-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Schematic Design Of D-Latch and D-Flip Flop",
       "short-name": "d-latch-and-d-flip-flop",
       "repo": "https://github.com/virtual-labs/exp-d-latch-and-d-flip-flop-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Spice Code Platform",
       "short-name": "spice-code-platform",
       "repo": "https://github.com/virtual-labs/exp-spice-code-platform-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Design Of D-Flip Flop Using Verilog",
       "short-name": "d-flip-flop-verilog",
       "repo": "https://github.com/virtual-labs/exp-d-flip-flop-verilog-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Design Of Digital Circuits Using Verilog",
       "short-name": "circuits-verilog",
       "repo": "https://github.com/virtual-labs/exp-digital-circuits-verilog-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
      {
       "name": "Layout Design",
       "short-name": "layout-design",
       "repo": "https://github.com/virtual-labs/exp-layout-design-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
      }
   ],
